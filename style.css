@@ -1,0 +1,78 @@
+#hobby{
+  background: rgb(0,244,237);
+background: linear-gradient(90deg, rgba(0,244,237,1) 0%, rgba(185,255,0,1) 100%);
+}
+
+section{
+  text-align: center;
+}
+.img{
+  border-radius:30%;
+    width:200px;
+}
+h1{
+  font-family: 'Allison', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+h2{
+    font-family: 'Allison', cursive;
+    font-size: 40px
+}
+.menu {
+    z-index: 9999;
+    list-style: none;
+    font-family: 'Source Code Pro', monospace;
+    position: fixed;
+    top: 1px;
+    right: 10px;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 0px;
+    background-color:#08DFF080;}
+     
+
+    
+    .links  {
+    float: left;
+    color:white;
+    padding-bottom: 5px;
+    padding-left: 35px;
+    padding-right: 25px;
+    padding-top: 5px;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 20px;
+    display:inline;
+        font-size: 20px;
+    }
+    .links:hover {
+    background-color: darkblue;
+font-size: 25px;
+    text-decoration: underline;
+}
+
+
+.links:hover {
+    background-color: aqua;
+}
+ .line {
+    width: 100px;
+    height: 7px;
+    margin: 8px auto;
+     background-color: black; }  
+#autobio{
+    background: rgb(254,255,100);
+background: linear-gradient(0deg, rgba(254,255,100,1) 0%, rgba(164,253,45,1) 100%);
+    margin-top: 30px;
+    
+}
+body{
+    background: rgb(84,255,86);
+background: linear-gradient(0deg, rgba(84,255,86,1) 0%, rgba(253,45,45,1) 100%);
+}
+     
+    .parallax-inner {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
